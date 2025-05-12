@@ -13,8 +13,8 @@ all: $(TARGET)
 
 # Build target
 $(TARGET): $(SRCS)
-    $(CC) $(CFLAGS) -o $(TARGET) $(SRCS)
+	$(CC) $(CFLAGS) -o $(TARGET) $(SRCS)
 
 # Clean target
 clean:
-    rm -f $(TARGET)
+	rm -f $(TARGET)
