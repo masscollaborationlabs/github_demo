@@ -2,6 +2,8 @@
 
 [![Build and Test C Program](https://github.com/masscollaborationlabs/github_demo/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/masscollaborationlabs/github_demo/actions/workflows/build-and-test.yml)
 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
 # License
 
 Copyright (C) 2025  Mass Collaboration Labs
