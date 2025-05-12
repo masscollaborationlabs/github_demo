@@ -1,4 +1,9 @@
-/** 
+# GitHub Demo
+
+[![Build and Test C Program](https://github.com/masscollaborationlabs/github_demo/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/masscollaborationlabs/github_demo/actions/workflows/build-and-test.yml)
+
+# License
+
 Copyright (C) 2025  Mass Collaboration Labs
 
 This program is free software: you can redistribute it and/or modify
@@ -13,13 +18,3 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
-**/
-
-#include <stdio.h>
-
-int main()
-{
-  printf("hello GitHub Actions !\n");
-
-  return 0;
-}
